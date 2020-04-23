@@ -43,6 +43,11 @@ class Test
 		}
 	}
 
+	public function seven()
+	{
+		echo "seven";
+	}
+
 }
 
 ?>
