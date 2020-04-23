@@ -18,8 +18,14 @@ class Test
 		echo "three";
 	}
 
-	public function four() {
-		echo "some";
+	public function four()
+	{
+		if(true) {
+			echo "three";
+		}
+		else {
+			echo "empty";
+		}
 	}
 
 }
