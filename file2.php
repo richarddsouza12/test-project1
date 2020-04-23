@@ -30,12 +30,7 @@ class Test
 
 	public function five()
 	{
-		if(true) {
-			echo "five";
-		}
-		else {
-			echo "empty";
-		}
+		echo "new contnt added by d1";
 	}
 
 }
