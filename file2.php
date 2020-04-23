@@ -14,6 +14,10 @@ class Test
 		echo "two";
 	}
 
+	public function three() {
+		echo "three";
+	}
+
 }
 
 ?>
