@@ -28,6 +28,16 @@ class Test
 		}
 	}
 
+	public function five()
+	{
+		if(true) {
+			echo "five";
+		}
+		else {
+			echo "empty";
+		}
+	}
+
 }
 
 ?>
