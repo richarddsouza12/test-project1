@@ -6,6 +6,11 @@ class Test
 	protected $b;
 	protected $c;
 
+	public function __construct()
+	{
+		echo "initialised";
+	}
+
 	public function one() {
 		echo "one";
 	}
