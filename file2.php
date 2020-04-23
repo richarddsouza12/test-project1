@@ -30,7 +30,12 @@ class Test
 
 	public function five()
 	{
-		echo "new contnt added by d1";
+		while(true){
+			if(true){
+				echo "1";
+				break;
+			}
+		}
 	}
 
 }
