@@ -15,7 +15,16 @@ class Test
 	}
 
 	public function three() {
-		echo "three";
+
+		while(true)
+		{
+			if(true) {
+
+			}else{
+
+			}
+			break;
+		}
 	}
 
 	public function four()
