@@ -11,7 +11,7 @@ class Employee {
 		echo "f5";
 	}
 	public function f6(){
-		echo "f6";
+		$x = new Utils();
 	}
 }
 

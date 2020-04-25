@@ -12,4 +12,14 @@ class Utils{
 		echo "f2";
 	}
 
+	public function f3(){
+
+		echo "f3";
+	}
+
+	public function f4(){
+
+		echo "f4";
+	}
+
 }
