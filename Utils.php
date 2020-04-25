@@ -3,8 +3,16 @@
 class Utils{
 
 	public function f1(){
+		while(true){
 
-		echo "f1";
+			if(true){
+
+			}else
+			{
+				echo "1";
+			}
+			break;
+		}
 	}
 
 	public function f2(){
