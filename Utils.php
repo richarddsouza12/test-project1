@@ -3,15 +3,12 @@
 class Utils{
 
 	public function f1(){
-		while(true){
-
-			if(true){
-
-			}else
-			{
-				echo "1";
-			}
+		switch (true){
+			case "" :
 			break;
+
+			default :
+			echo "";
 		}
 	}
 
