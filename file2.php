@@ -57,6 +57,11 @@ class Test
 		echo "seven";
 	}
 
+	public function eight()
+	{
+		echo "eight";
+	}
+
 }
 
 ?>
