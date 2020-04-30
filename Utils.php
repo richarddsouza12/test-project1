@@ -33,6 +33,8 @@ class Utils{
 		echo "f4";
 	}
 
-
+	public function f6(){
+		echo "f4";
+	}
 
 }
