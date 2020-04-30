@@ -26,8 +26,13 @@ class Utils{
 	}
 
 	public function f4(){
-
 		echo "f4";
 	}
+
+	public function f5(){
+		echo "f4";
+	}
+
+
 
 }
