@@ -26,6 +26,7 @@ class Utils{
 	}
 
 	public function f4(){
+
 		echo "f4";
 	}
 
@@ -36,5 +37,7 @@ class Utils{
 	public function f6(){
 		echo "f4";
 	}
-
+	public function f7(){
+		echo "f4";
+	}
 }
