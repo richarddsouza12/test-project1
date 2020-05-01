@@ -1,4 +1,7 @@
 <?php
-
-echo 'Good Morning';
+	class Addon {
+		public function sub(){
+			return (5-2);
+		}
+	}
 ?>
