@@ -1,3 +1,0 @@
-<?php
-
-//	Performing some changes.
