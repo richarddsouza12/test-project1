@@ -10,6 +10,8 @@ function addddd()
     echo "here some stuff";
    echo "more stuff";
     echo "hererererer";
+    echo "new sentence";
     echo "swapnali shinde";
+    echo "sentence from phpstorm";
 }
 ?>
