@@ -9,5 +9,6 @@ function addddd()
 {
     echo "here some stuff";
    echo "more stuff";
+    echo "hererererer";
 }
 ?>
