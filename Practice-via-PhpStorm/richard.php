@@ -1,4 +1,6 @@
 <?php
 
-echo "hi";
+function getId() {
+    echo "getId";
+}
 
