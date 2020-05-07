@@ -1,5 +1,9 @@
 <?php
 
 echo "hi";
-echo "ok"
+echo "ok";
+
+function getId() {
+    return 1;
+}
 
