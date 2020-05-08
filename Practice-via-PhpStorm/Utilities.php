@@ -17,12 +17,21 @@ class Utilities{
 
 	public function f2(){
 
-		echo "f2";
+		switch() {
+			case 1 :
+
+			case 2 :
+
+		}
 	}
 
 	public function f3(){
 
-		echo "f3";
+		foreach(    ){
+
+			echo "hi";
+
+		}
 	}
 
 	public function f4(){
