@@ -13,4 +13,8 @@ function addddd()
         echo "Even";
     }
 }
+function sum()
+{
+    echo 5 + 4 + 6;
+}
 ?>
