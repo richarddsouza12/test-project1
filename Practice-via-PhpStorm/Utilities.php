@@ -32,12 +32,13 @@ class Utilities{
 	}
 
 	public function f4(){
-
 		echo "f4";
-		$intDiff = 10 - 5;
 	}
 
 	public function f5(){
+
+		echo "f4";
+		$intDiff = 10 - 5;
 		echo "f4";
 		$intSum = 3 + 4;
 	}
