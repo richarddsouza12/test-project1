@@ -49,4 +49,12 @@ class Utilities{
 	public function f7(){
 		echo "f4";
 	}
+
+	public function f8(){
+		echo "f4";
+	}
+
+	public function f9(){
+		echo "f4";
+	}
 }
