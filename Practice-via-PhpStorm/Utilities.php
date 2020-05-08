@@ -26,8 +26,7 @@ class Utilities{
 	}
 
 	public function f3(){
-
-
+		echo 'for stashing';
 		print_r("f3");
 	}
 
