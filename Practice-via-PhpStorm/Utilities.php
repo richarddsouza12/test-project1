@@ -32,12 +32,12 @@ class Utilities{
 	}
 
 	public function f4(){
-
+		echo "hi";
 		echo "f4";
 	}
 
 	public function f5(){
-		echo "f4";
+		echo "hi";
 	}
 
 	public function f6(){
