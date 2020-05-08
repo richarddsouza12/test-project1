@@ -27,11 +27,8 @@ class Utilities{
 
 	public function f3(){
 
-		foreach(    ){
 
-			echo "hi";
-
-		}
+		print_r("f3");
 	}
 
 	public function f4(){
