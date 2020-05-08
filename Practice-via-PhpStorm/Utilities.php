@@ -17,12 +17,14 @@ class Utilities{
 
 	public function f2(){
 
-		echo "f2";
+		print_r("f2");
+
 	}
 
 	public function f3(){
 
-		echo "f3";
+
+		print_r("f3");
 	}
 
 	public function f4(){
