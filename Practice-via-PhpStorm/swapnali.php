@@ -12,6 +12,10 @@ function addddd()
     {
         echo "Even";
     }
+    else
+    {
+        echo "odd";
+    }
 }
 function sum()
 {
