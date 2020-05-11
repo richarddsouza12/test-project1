@@ -7,3 +7,14 @@
  */
 
 echo "Anil here";
+
+class Anil
+{
+
+	function f1(){
+		echo "hi";
+	}
+
+
+
+}
