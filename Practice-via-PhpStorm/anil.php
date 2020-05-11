@@ -15,6 +15,10 @@ class Anil
 		echo "hi";
 	}
 
+	function f2(){
+		echo "hi";
+	}
+
 
 
 }
