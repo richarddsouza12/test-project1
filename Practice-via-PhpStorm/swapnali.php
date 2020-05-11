@@ -7,11 +7,22 @@ echo "1+1+1+1";
 
 function addddd()
 {
-    echo "here some stuff";
-   echo "more stuff";
-    echo "hererererer";
-    echo "swapnali shinde";
-    echo "sentence from phpstorm";
-    echo "here";
+    $m = 18;
+    if($m % 2 == 0)
+    {
+        echo "Even";
+    }
+    else
+    {
+        echo "odd";
+    }
+}
+function calc()
+{
+    $sum = 5 + 4 + 6+ 1 + 7 + 8 + 10 + 56;
+    $diff = 5-4;
+
+    echo $sum;
+    echo $diff;
 }
 ?>
