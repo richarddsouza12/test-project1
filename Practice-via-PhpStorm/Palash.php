@@ -1,3 +1,7 @@
 <?php
-	echo 'Hello';
+	class Property{
+		public function f1(){
+			echo 'F1';
+		}
+	}
 ?>

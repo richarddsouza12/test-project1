@@ -1,0 +1,30 @@
+Index: test-project1/Practice-via-PhpStorm/anil.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- test-project1/Practice-via-PhpStorm/anil.php	(revision db3be9e15ed70e0ee7c93aa7bda6a635403246e8)
++++ test-project1/Practice-via-PhpStorm/anil.php	(date 1588851385030)
+@@ -6,4 +6,5 @@
+  * Time: 05:52 PM
+  */
+ 
+-echo "Anil here";
+\ No newline at end of file
++echo "Anil here";
++echo 'Patch Created';
+\ No newline at end of file
+Index: test-project1/Practice-via-PhpStorm/Palash.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- test-project1/Practice-via-PhpStorm/Palash.php	(revision db3be9e15ed70e0ee7c93aa7bda6a635403246e8)
++++ test-project1/Practice-via-PhpStorm/Palash.php	(date 1588851462053)
+@@ -2,4 +2,5 @@
+ 	echo 'Hello';
+ echo 'Hello';
+ echo 'Hello';
++echo 'Patch Created';
+ ?>
+\ No newline at end of file
