@@ -12,3 +12,7 @@
 	function test2() {
 		// this is test3
 	}
+
+	function test3() {
+		// this is test4
+	}
