@@ -8,3 +8,7 @@
 	function test1() {
 		// This is new function.
 	}
+
+	function test2() {
+		// this is test3
+	}
