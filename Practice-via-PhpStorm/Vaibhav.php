@@ -8,3 +8,15 @@
 	function test1() {
 		// This is new function.
 	}
+
+	function test2() {
+		// this is test3
+	}
+
+	function test3() {
+		// this is test4
+	}
+
+	function test4() {
+		// this is test4
+	}
