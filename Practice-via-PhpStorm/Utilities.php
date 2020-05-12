@@ -3,15 +3,9 @@
 class Utilities{
 
 	public function f1(){
-		while(true){
-
-			if(true){
-
-			}else
-			{
-				echo "1";
-			}
-			break;
+		switch (true){
+			case 1 :
+			case 2 :
 		}
 	}
 
