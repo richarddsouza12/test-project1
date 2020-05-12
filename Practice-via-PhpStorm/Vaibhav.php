@@ -20,3 +20,7 @@
 	function test4() {
 		// This is test4
 	}
+
+	function test5() {
+		// this is test5
+	}
