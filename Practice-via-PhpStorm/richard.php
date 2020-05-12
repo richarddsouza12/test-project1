@@ -15,3 +15,8 @@ function getId3() {
 	return 1;
 }
 
+function getId4() {
+	return 1;
+}
+
+
