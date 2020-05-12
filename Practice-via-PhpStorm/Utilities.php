@@ -3,15 +3,9 @@
 class Utilities{
 
 	public function f1(){
-		while(true){
-
-			if(true){
-
-			}else
-			{
-				echo "1";
-			}
-			break;
+		switch (true){
+			case 1 :
+			case 2 :
 		}
 	}
 
@@ -22,12 +16,13 @@ class Utilities{
 
 			case 2 :
 
+			case 3 :
+
 		}
 	}
 
 	public function f3(){
-
-
+		echo 'for stashing';
 		print_r("f3");
 	}
 
@@ -36,11 +31,10 @@ class Utilities{
 	}
 
 	public function f5(){
-
-		echo "f4";
-		$intDiff = 10 - 5;
-		echo "f4";
-		$intSum = 3 + 4;
+		switch(true){
+			case 1 :
+			case 2 :
+		}
 	}
 
 	public function f6(){
