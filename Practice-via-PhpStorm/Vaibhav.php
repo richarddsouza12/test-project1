@@ -6,5 +6,17 @@
 	}
 
 	function test1() {
-		// This is new function.
+		// This is test1
+	}
+
+	function test2() {
+		// This is test2
+	}
+
+	function test3() {
+		// This is test3
+	}
+
+	function test4() {
+		// This is test4
 	}
