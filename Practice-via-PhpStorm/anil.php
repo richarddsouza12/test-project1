@@ -7,3 +7,22 @@
  */
 
 echo "Anil here";
+
+class Anil
+{
+
+	function f1(){
+		echo "hi";
+	}
+
+	function f2(){
+		echo "hi";
+	}
+
+	function f3(){
+		echo "hi";
+	}
+
+
+
+}
