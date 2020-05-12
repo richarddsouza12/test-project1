@@ -7,5 +7,10 @@ class Rekha {
 	public function demoFunction(){
 		echo 'Added new class and merging it on master branch';
 	}
+
+	public function  display() {
+		echo 'This is display function';
+	}
+
 }
 ?>
