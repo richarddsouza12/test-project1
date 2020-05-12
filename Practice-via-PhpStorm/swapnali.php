@@ -19,7 +19,8 @@ function addddd()
 }
 function sum()
 {
-    $sum = 5 + 4 + 6;
+    $sum = 5 + 4 + 6 + 10;
+
     echo $sum;
 }
 ?>
