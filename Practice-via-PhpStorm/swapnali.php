@@ -17,12 +17,10 @@ function addddd()
         echo "odd";
     }
 }
-function calc()
+function sum()
 {
-    $sum = 5 + 4 + 6+ 1 + 7 + 8 + 10 + 56;
-    $diff = 5-4;
+    $sum = 5 + 4 + 6 + 10;
 
     echo $sum;
-    echo $diff;
 }
 ?>
