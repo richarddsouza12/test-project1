@@ -6,5 +6,8 @@
 		public function f2(){
 			echo 'F2';
 		}
+		public function f3(){
+			echo "f3";
+		}
 	}
 ?>
