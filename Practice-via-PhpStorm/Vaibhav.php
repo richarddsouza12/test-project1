@@ -16,3 +16,7 @@
 	function test3() {
 		// this is test4
 	}
+
+	function test4() {
+		// this is test4
+	}
