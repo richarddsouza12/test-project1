@@ -12,5 +12,9 @@ class Rekha {
 		echo 'This is display function';
 	}
 
+	public function  newFunction() {
+		echo 'This is new function';
+	}
+
 }
 ?>
