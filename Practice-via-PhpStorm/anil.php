@@ -24,5 +24,10 @@ class Anil
 	}
 
 
+	function f4(){
+		echo "hi";
+	}
+
+
 
 }
