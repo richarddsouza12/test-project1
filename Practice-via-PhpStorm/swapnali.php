@@ -23,13 +23,5 @@ function sum()
 
     echo $sum;
 }
-function diff()
-{
-    $diff = 5 - 3 -2;
 
-    echo $diff;
-}
-echo "first com";
-echo "2nd comment";
-echo "3rd comment";
 ?>
