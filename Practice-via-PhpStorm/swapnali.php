@@ -29,4 +29,5 @@ function diff()
 
     echo $diff;
 }
+echo "first com";
 ?>
