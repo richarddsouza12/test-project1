@@ -31,4 +31,5 @@ function diff()
 }
 echo "first com";
 echo "2nd comment";
+echo "3rd comment";
 ?>
