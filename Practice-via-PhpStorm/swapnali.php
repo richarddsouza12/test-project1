@@ -30,4 +30,5 @@ function diff()
     echo $diff;
 }
 echo "first com";
+echo "2nd comment";
 ?>
