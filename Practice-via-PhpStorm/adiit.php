@@ -8,3 +8,4 @@
 echo 'hi';
 echo 'hi';
 echo 'Rebase test';
+echo '1';
