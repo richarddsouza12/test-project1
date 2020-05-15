@@ -59,7 +59,7 @@ class Utilities{
 	}
 
 	public function f12(){
-		echo "f4";
+		echo "canged in master";
 	}
 
 	public function f13(){
