@@ -66,6 +66,10 @@ class Utilities{
 		echo "chaged in master";
 	}
 
+	public function f14(){
+		echo "f4";
+	}
+
 
 
 
