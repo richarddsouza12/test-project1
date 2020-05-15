@@ -70,6 +70,11 @@ class Utilities{
 		echo "f4";
 	}
 
+	public function f15(){
+		echo "f4";
+	}
+
+
 
 
 
