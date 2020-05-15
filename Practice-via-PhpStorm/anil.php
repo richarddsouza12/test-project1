@@ -28,6 +28,10 @@ class Anil
 		echo "hi";
 	}
 
+	function f5(){
+		echo "hi";
+	}
+
 
 
 }
