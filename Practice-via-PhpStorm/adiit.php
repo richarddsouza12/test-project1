@@ -5,3 +5,4 @@
 	echo 'This is on master branch';
 	echo 'hi';
 	echo 'hi';
+echo 'hi';
