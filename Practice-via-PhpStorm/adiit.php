@@ -9,3 +9,4 @@ echo 'hi';
 echo 'hi';
 echo 'Rebase test';
 echo '1';
+echo '1';
