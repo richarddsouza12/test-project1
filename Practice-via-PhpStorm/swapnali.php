@@ -23,10 +23,4 @@ function sum()
 
     echo $sum;
 }
-function diff()
-{
-    $diff = 5 - 3 -2;
-
-    echo $diff;
-}
 ?>

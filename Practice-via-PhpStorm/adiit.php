@@ -4,3 +4,6 @@
 	echo 'Not updated anything. Just testing';
 	echo 'This is on master branch';
 	echo 'hi';
+	echo 'hi';
+echo 'hi';
+echo 'hi';

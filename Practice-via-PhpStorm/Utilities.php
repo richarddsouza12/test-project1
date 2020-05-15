@@ -43,4 +43,33 @@ class Utilities{
 	public function f7(){
 		echo "f4";
 	}
+
+	public function f8(){
+		echo "f4";
+	}
+	public function f9(){
+		echo "f4";
+	}
+	public function f10(){
+		echo "f4";
+	}
+
+	public function f11(){
+		echo "f4";
+	}
+
+	public function f12(){
+		echo "f4";
+	}
+
+	public function f13(){
+		echo "f4";
+	}
+
+
+
+
+
+
+
 }
