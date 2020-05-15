@@ -74,6 +74,10 @@ class Utilities{
 		echo "f4";
 	}
 
+	public function f16(){
+		echo "f4";
+	}
+
 
 
 
