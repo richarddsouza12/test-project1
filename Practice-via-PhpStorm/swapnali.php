@@ -47,4 +47,8 @@ function f1()
 {
     echo "in f1";
 }
+function f2()
+{
+    echo "in f2";
+}
 ?>
