@@ -43,4 +43,12 @@ function diff()
     $diff = 5-3-2;
     echo $diff;
 }
+function f1()
+{
+    echo "in f1";
+}
+function f2()
+{
+    echo "in f2";
+}
 ?>
