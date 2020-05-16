@@ -51,4 +51,12 @@ function f2()
 {
     echo "in f2";
 }
+function f3()
+{
+    echo "in f3";
+}
+function f4()
+{
+    echo "in f4";
+}
 ?>
