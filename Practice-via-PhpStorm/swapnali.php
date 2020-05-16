@@ -23,5 +23,9 @@ function sum()
 
     echo $sum;
 }
-
+function mult()
+{
+    $mult = 5 * 8;
+    echo $mult;
+}
 ?>
