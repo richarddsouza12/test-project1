@@ -28,4 +28,9 @@ function mult()
     $mult = 5 * 8;
     echo $mult;
 }
+function div()
+{
+    $div = 6 %3;
+    echo $div;
+}
 ?>
