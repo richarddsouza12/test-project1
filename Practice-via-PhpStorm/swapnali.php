@@ -28,4 +28,19 @@ function mult()
     $mult = 5 * 8;
     echo $mult;
 }
+function div()
+{
+    $div = 6 /3;
+    echo $div;
+}
+function reminder()
+{
+    $rem = 4 % 2;
+    echo $rem;
+}
+function diff()
+{
+    $diff = 5-3-2;
+    echo $diff;
+}
 ?>
