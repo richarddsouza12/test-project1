@@ -30,7 +30,12 @@ function mult()
 }
 function div()
 {
-    $div = 6 %3;
+    $div = 6 /3;
     echo $div;
+}
+function reminder()
+{
+    $rem = 4 % 2;
+    echo $rem;
 }
 ?>
