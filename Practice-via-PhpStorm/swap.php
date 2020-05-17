@@ -17,3 +17,4 @@ echo "more data need to commit";
 echo "more stuff need to commit";
 echo "more stuff need to push";
 echo "more stuff need to push";
+echo "some data";
