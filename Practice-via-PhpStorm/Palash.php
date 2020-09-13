@@ -19,11 +19,11 @@
 			echo 'F2';
 		}
 
-		public function f2(){
+		public function f6(){
 			echo 'F1';
 		}
 
-		public function f3(){
+		public function f7(){
 			echo 'F1';
 		}
 
