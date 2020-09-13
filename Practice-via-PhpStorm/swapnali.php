@@ -7,11 +7,60 @@ echo "1+1+1+1";
 
 function addddd()
 {
-    echo "here some stuff";
-   echo "more stuff";
-    echo "hererererer";
-    echo "swapnali shinde";
-    echo "sentence from phpstorm";
-    echo "here";
+    $m = 18;
+    if($m % 2 == 0)
+    {
+        echo "Even";
+    }
+    else
+    {
+        echo "odd";
+    }
+}
+function sum()
+{
+    $sum = 5 + 4 + 6 + 10;
+
+    echo $sum;
+}
+function mult()
+{
+    $mult = 5 * 8;
+    echo $mult;
+}
+function div()
+{
+    $div = 6 /3;
+    echo $div;
+}
+function reminder()
+{
+    $rem = 4 % 2;
+    echo $rem;
+}
+function diff()
+{
+    $diff = 5-3-2;
+    echo $diff;
+}
+function f1()
+{
+    echo "in f1";
+}
+function f2()
+{
+    echo "in f2";
+}
+function f3()
+{
+    echo "in f3";
+}
+function f4()
+{
+    echo "in f4";
+}
+function f5()
+{
+    echo "in f5";
 }
 ?>
