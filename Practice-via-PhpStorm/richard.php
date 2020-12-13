@@ -20,4 +20,10 @@ class One {
 	public function one() {
 		echo "1";
 	}
+
+	public function two() {
+		echo "1";
+	}
+
+
 }
