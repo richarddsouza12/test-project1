@@ -11,6 +11,13 @@ function getId2() {
 	return 1;
 }
 
-	function getId3() {
+function getId3() {
 		return 1;
 	}
+
+class One {
+
+	public function one() {
+		echo "1";
+	}
+}
