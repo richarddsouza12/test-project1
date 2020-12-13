@@ -17,3 +17,6 @@ function getId3() {
 /** undid all changes */
 
 //Chages in richard-feature2 1
+
+///Chages in richard-feature2 2
+
