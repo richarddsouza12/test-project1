@@ -25,5 +25,9 @@ class One {
 		echo "1";
 	}
 
+	public function three() {
+		echo "3";
+	}
+
 
 }
